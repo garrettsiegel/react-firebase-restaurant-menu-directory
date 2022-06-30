@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/react-firebase-restaurant-menu-directory/static/css/main.4d86c1c6.css",
-    "main.js": "/github.io/react-firebase-restaurant-menu-directory/static/js/main.a21d69af.js",
-    "index.html": "/github.io/react-firebase-restaurant-menu-directory/index.html",
-    "static/media/delete-icon.svg": "/github.io/react-firebase-restaurant-menu-directory/static/media/delete-icon.589ab6f52bb002e9525baabe02f79648.svg",
-    "main.4d86c1c6.css.map": "/github.io/react-firebase-restaurant-menu-directory/static/css/main.4d86c1c6.css.map",
-    "main.a21d69af.js.map": "/github.io/react-firebase-restaurant-menu-directory/static/js/main.a21d69af.js.map"
+    "main.css": "/react-firebase-restaurant-menu-directory/static/css/main.4d86c1c6.css",
+    "main.js": "/react-firebase-restaurant-menu-directory/static/js/main.8d3e4443.js",
+    "index.html": "/react-firebase-restaurant-menu-directory/index.html",
+    "static/media/delete-icon.svg": "/react-firebase-restaurant-menu-directory/static/media/delete-icon.589ab6f52bb002e9525baabe02f79648.svg",
+    "main.4d86c1c6.css.map": "/react-firebase-restaurant-menu-directory/static/css/main.4d86c1c6.css.map",
+    "main.8d3e4443.js.map": "/react-firebase-restaurant-menu-directory/static/js/main.8d3e4443.js.map"
   },
   "entrypoints": [
     "static/css/main.4d86c1c6.css",
-    "static/js/main.a21d69af.js"
+    "static/js/main.8d3e4443.js"
   ]
 }
