@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-firebase-restaurant-menu-directory/static/css/main.4d86c1c6.css",
-    "main.js": "/react-firebase-restaurant-menu-directory/static/js/main.6018c566.js",
+    "main.js": "/react-firebase-restaurant-menu-directory/static/js/main.617acc2a.js",
     "index.html": "/react-firebase-restaurant-menu-directory/index.html",
     "static/media/delete-icon.svg": "/react-firebase-restaurant-menu-directory/static/media/delete-icon.589ab6f52bb002e9525baabe02f79648.svg",
     "main.4d86c1c6.css.map": "/react-firebase-restaurant-menu-directory/static/css/main.4d86c1c6.css.map",
-    "main.6018c566.js.map": "/react-firebase-restaurant-menu-directory/static/js/main.6018c566.js.map"
+    "main.617acc2a.js.map": "/react-firebase-restaurant-menu-directory/static/js/main.617acc2a.js.map"
   },
   "entrypoints": [
     "static/css/main.4d86c1c6.css",
-    "static/js/main.6018c566.js"
+    "static/js/main.617acc2a.js"
   ]
 }
