@@ -16,7 +16,7 @@ Experience the app for yourself by visiting the live preview site: [React & Fire
 
 ## Usage
 
-Feel free to explore the app by adding or deleting menu items as you wish. Please kindly refrain from adding any obscene or profane entries, as this application is a significant part of a professional portfolio. Your cooperation is appreciated!
+Feel free to explore the app by adding or deleting menu items as you wish.
 
 ## Installation
 
